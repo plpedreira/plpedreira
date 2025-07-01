@@ -1,6 +1,6 @@
 # PedroLucas
 # 💫 About Me:
-🚀 Currently working but open to new opportunities in the tech field!<br>📚 Always learning and growing.<br>💻 Contact me at: plpedreira03@gmail.com<br>🥤 Powered by soda, almost 24/7!<br><br>
+🚀 Currently working but open to new opportunities in the tech field!<br>🎓 Final-year Computer Science student passionate about web development, always seeking to learn and grow through hands-on projects.<br>💻 Contact me at: plpedreira03@gmail.com<br>🥤 Powered by soda, almost 24/7!<br><br>
 
 
 ## 🌐 Socials:
