@@ -1,9 +1,11 @@
 # PedroLucas
 
 # 💫 About Me:
-🚀 Currently working but open to new opportunities in the tech field!  
-🎓 Final-year Computer Science student focused on web development, building scalable applications and constantly improving through hands-on projects.  
-💻 Contact me at: plpedreira03@gmail.com  
+- 🚀 Currently working but open to new opportunities in the tech field!
+    
+- 🎓 Final-year Computer Science student focused on web development, building scalable applications and constantly improving through hands-on projects.
+    
+- 💻 Contact me at: plpedreira03@gmail.com  
 
 ---
 
