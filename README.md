@@ -36,6 +36,6 @@
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=plpedreira&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=plpedreira&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plpedreira&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plpedreira&layout=compact)
