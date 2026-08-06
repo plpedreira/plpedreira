@@ -35,10 +35,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=plpedreira&theme=github_dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plpedreira&theme=github_dark)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=plpedreira&color=blue)
